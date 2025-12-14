@@ -69,7 +69,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="CefSharp.OffScreen.NetCore" Version="141.0.110" />
+    <PackageReference Include="CefSharp.OffScreen.NetCore" Version="143.0.90" />
   </ItemGroup>
 
   <ItemGroup>
